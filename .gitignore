@@ -1,0 +1,7 @@
+#dotenv
+.env
+
+#ignore data folder
+Data/
+#ignore Large Data files
+.csv
